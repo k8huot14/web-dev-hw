@@ -12,6 +12,9 @@ I decided to take this class so that I am able to create and manage websites in 
 
 ### My Resources
 *HTML&CSS* by **Jon Duckett**
-```What is the course textbook? Use italics for the title. Bold the author's name.```
-[https://media-ed-online.github.io/intro-web-dev/]
+```
+What is the course textbook? Use italics for the title. Bold the author's name.
+```
+[Web Dev Link](https://media-ed-online.github.io/intro-web-dev/)
+
 ![alt text](http://bit.ly/2DIVG46)
