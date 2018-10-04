@@ -4,4 +4,4 @@ This is a new line.
 
 My [course notes](./notes.txt)
 
-1[Image of My Atom Editor](./screenshot.png)
+![Image of My Atom Editor](./images/screenshot.png)
