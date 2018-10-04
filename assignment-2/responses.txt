@@ -1,0 +1,10 @@
+Assignment 2 Responses:
+
+1. Briefly describe one way how data travels on the internet.
+    
+
+2. What is the relationship between an IP address and the DNS?
+
+3. What is a cookie?
+
+4. List the the three basic parts of a URL.
