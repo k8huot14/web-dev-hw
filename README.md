@@ -16,6 +16,6 @@ I decided to take this class so that I am able to create and manage websites in 
 ```
 What is the course textbook? Use italics for the title. Bold the author's name.
 ```
-[Web Dev Link](https://media-ed-online.github.io/intro-web-dev/)
+[Web Dev Site](https://media-ed-online.github.io/intro-web-dev/)
 
 ![alt text](http://bit.ly/2DIVG46)
