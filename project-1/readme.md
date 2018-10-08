@@ -15,4 +15,4 @@ D. Summarize your work cycle for this assignment.
 
 E. Embed a screenshot of your workspace at some point during your development cycle.
 
-    ![Image of my P1](./images/screenshotP1.png)
+![Image of my P1](./images/screenshotP1.png)
