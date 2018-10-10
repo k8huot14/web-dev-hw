@@ -1,10 +1,23 @@
 Assignment 2 Responses:
 
 1. Briefly describe one way how data travels on the internet.
-    
+
+    Data is broken down into bits and bites using binary code.
+    One's and Zeros. 1 = On. 0 = Off.
+    It is then digitally transmitted via light or electricity
+    through physical wires and cables.
+    The data is then sorted into "packets" and sent through
+    routers (aka packet switches) which use a specific set of
+    instructions to re-construct the packets in order on the
+    receiving end. This process is referred as TCP/IP or
+    Transmission Control Protocol/Internet Protocol.
 
 2. What is the relationship between an IP address and the DNS?
 
+    The IP address is the unique address that is assigned to
+    each computer and server to identify it on a network.
+    A DNS is a Domain Name Service
+
 3. What is a cookie?
 
-4. List the the three basic parts of a URL.
+4. List the three basic parts of a URL.
