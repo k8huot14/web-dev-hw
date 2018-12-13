@@ -1,4 +1,5 @@
 # My Assignment 2 Repo
+## Katie Huot
 
 Describe what a Version Control System is and why we are using one in this class.
 
