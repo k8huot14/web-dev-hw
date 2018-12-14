@@ -1,4 +1,5 @@
 # My Assignment 3 Repo
+## Technical Report
 ## Katie Huot
 
 Summarize the work you did this cycle.
