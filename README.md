@@ -2,7 +2,7 @@
 ## Assignment 1 Repo
 ## Katie Huot
 
-I decided to take this class so that I am able to create and manage websites in the work world after graduation next Spring.
+I need to finish this class so that I can get my degree, but I want to learn to build websites from the ground up so that I have that valuable skill in the workfield.
 
 ##### Surprizing facts about the INTERNET:
 - The Internet exists **both** *virtually* & **_physically_**
