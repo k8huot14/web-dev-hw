@@ -1,0 +1,16 @@
+# My Intro-Web-Dev Homework Repo
+## Assignment 1 Repo
+## Katie Huot
+
+##### Surprizing facts about the INTERNET:
+- How is the web different than the internet?
+
+- Briefly describe how the internet works.
+The Internet exists **both** *virtually* & **_physically_**
+There are a small amount of buildings that house the physical networks and routers that run the internet
+Cables **_underneath_** the **OCEAN** are how we are connected across the world!!
+
+- What is a directory, and what is its relationship to files?
+    
+- Why is using a VCS beneficial?
+ 
