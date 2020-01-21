@@ -4,13 +4,26 @@
 
 ##### Surprizing facts about the INTERNET:
 - How is the web different than the internet?
+  A system spanning many networks is an inter-network
+  shortened to “Internet” in 1974.
+  The webbed systems that connect documents in non-linear ways
+  are known as hypertext. In 1989, Tim Burners-Lee proposed the
+  organization of the internet by using hypertext to produce a
+  web that was worldwide and logically connected. The internet
+  connects participants and the web connects information.
 
 - Briefly describe how the internet works.
-The Internet exists **both** *virtually* & **_physically_**
-There are a small amount of buildings that house the physical networks and routers that run the internet
-Cables **_underneath_** the **OCEAN** are how we are connected across the world!!
+  The Internet exists **both** *virtually* & **_physically_**
+  There are a small amount of buildings that house the physical
+  networks and routers that run the internet
+  Cables **_underneath_** the **OCEAN** are how we are connected across the world!!
 
 - What is a directory, and what is its relationship to files?
-    
+  A directory is a folder system that organizes files in a
+  hierarchical structure. The top-most directory is considered
+  the root directory.
+
 - Why is using a VCS beneficial?
- 
+  Version control systems are a kind of database that lets you
+  take a snapshot of your complete project as a reference point.
+  VCS will track changes from each version that has been committed.
