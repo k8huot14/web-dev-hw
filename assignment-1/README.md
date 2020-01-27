@@ -18,5 +18,6 @@ I am working hard to finish this course so that I can get my degree, but I am ea
 
 ![alt text](http://bit.ly/2DIVG46)
 
-![Image of My Atom Editor](./images/screenshot-A1a.png)
-![Image of My Atom Editor](./images/screenshot-A1b.png)
+![Screenshot 1](./images/screenshot-A1a.png)
+
+![Screenshot 2](./images/screenshot-A1b.png)

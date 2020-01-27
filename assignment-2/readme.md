@@ -15,6 +15,6 @@ Problems or Issues? How did you solve them?
 * how to navigate Atom and github
 * online class work flow
 
-My [Responses](./responses.txt)
+[My Responses](./responses.txt)
 
 ![Image of My Atom Editor](./images/screenshot-A2.png)
