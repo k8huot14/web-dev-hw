@@ -10,6 +10,8 @@ My [Responses](./responses.txt)
 Summarize the work you did this cycle.
 Problems or Issues? How did you solve them?
 
-    I had a few hiccups in my work flow when beginning this assignment, but after visiting with our instructor I was able to address the few areas where I was stuck. I am feeling much more confident in the process now.
+    I am getting back into the swing of things and finding my
+    work flow again. Updating older files and making corrections
+    on responses, taking new screenshots.
 
-![Image of My Atom Editor](./images/screenshot.png)
+![Image of My Atom Editor](./assignment-2/images/screenshot-A2.png)
