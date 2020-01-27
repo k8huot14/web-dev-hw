@@ -25,6 +25,7 @@
   the root directory.
 
 - Why is using a VCS beneficial?
-  Version control systems are a kind of database that lets you
-  take a snapshot of your complete project as a reference point.
-  VCS will track changes from each version that has been committed.
+  A Version Control System allows the developer/user to make changes
+  to a file and track those changes over time. The developer can also
+  fix mistakes by restoring a previous version. Version control also
+  makes collaboration and sharing easy.
