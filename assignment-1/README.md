@@ -17,3 +17,6 @@ I am working hard to finish this course so that I can get my degree, but I am ea
 [Web Dev Site](https://media-ed-online.github.io/intro-web-dev/)
 
 ![alt text](http://bit.ly/2DIVG46)
+
+![Image of My Atom Editor](./images/screenshot-A1a.png)
+![Image of My Atom Editor](./images/screenshot-A1b.png)
