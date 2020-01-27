@@ -14,10 +14,26 @@ Assignment 2 Responses:
 
 2. What is the relationship between an IP address and the DNS?
 
-    The IP address is the unique address that is assigned to
-    each computer and server to identify it on a network.
-    A DNS is a Domain Name Service
+    The IP address is the unique address in the form of a number
+    that is assigned to each computer and server to identify it on
+    a network. A DNS is a domain name system that associates the
+    domain name or URL with the corresponding IP address number.
+    Both HTTP & DNS manage the sending and receiving of web files.
 
 3. What is a cookie?
 
+    A cookie is a bit of information that websites use to
+    remember who you are. It is basically an ID card to help your
+    computer to remember what websites you have accessed.
+
 4. List the three basic parts of a URL.
+
+    A URL is a uniform resource locator which is the name of the
+    web page address. There are two types of URLs a relative and
+    an absolute address. The directions to a web address consists
+    of the protocol, domain, path and file. The protocol is the
+    first part of the URL that determines how the web browser will
+    communicate with a web server. Ex: HTTP
+    The next part is the subdomain and the domain. Ex: www.ex.com
+    The third and final part of a URL is the end of the path which
+    is often a file, page or even query.
