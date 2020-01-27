@@ -7,7 +7,7 @@ Problems or Issues? How did you solve them?
     I am getting back into the swing of things and finding my
     work flow again. Updating older files and making corrections
     on responses, taking new screenshots, making sure all steps have
-    bene completed.
+    been completed.
 
 3 things I've learned:
 
