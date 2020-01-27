@@ -12,6 +12,13 @@ Problems or Issues? How did you solve them?
 
     I am getting back into the swing of things and finding my
     work flow again. Updating older files and making corrections
-    on responses, taking new screenshots.
+    on responses, taking new screenshots, making sure all steps have
+    bene completed.
 
-![Image of My Atom Editor](./assignment-2/images/screenshot-A2.png)
+3 things I've learned:
+
+* markdown language
+* how to navigate Atom and github
+* online class work flow
+
+![Image of My Atom Editor](/images/screenshot-A2.png)
