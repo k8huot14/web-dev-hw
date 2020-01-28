@@ -10,6 +10,7 @@ I am working hard to finish this course so that I can get my degree, but I am ea
 - There are a small amount of buildings that house the physical networks and routers that run the internet for the entire world.
 
 ***
+[My Responses](./responses.txt)
 
 ### My Resources
 *HTML&CSS* by **Jon Duckett**
