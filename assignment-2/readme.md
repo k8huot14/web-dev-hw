@@ -15,6 +15,8 @@ Problems or Issues? How did you solve them?
 * how to navigate Atom and github
 * online class work flow
 
+[I literally JUST got Netflix this month.](https://www.netflix.com/)
+
 [My Responses](./responses.txt)
 
 ![Screenshot A2](./images/screenshot-A2.png)
