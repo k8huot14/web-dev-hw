@@ -12,6 +12,7 @@ I am working hard to finish this course so that I can get my degree, but I am ea
 ***
 [My Responses](./responses.txt)
 
+***
 ### My Resources
 *HTML&CSS* by **Jon Duckett**
 

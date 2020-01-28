@@ -9,7 +9,7 @@ Problems or Issues? How did you solve them?
     on responses, taking new screenshots, making sure all steps have
     been completed.
 
-3 things I've learned:
+###3 things I've learned:
 
 * markdown language
 * how to navigate Atom and github
@@ -17,4 +17,4 @@ Problems or Issues? How did you solve them?
 
 [My Responses](./responses.txt)
 
-![Image of My Atom Editor](./images/screenshot-A2.png)
+![Screenshot A2](./images/screenshot-A2.png)
