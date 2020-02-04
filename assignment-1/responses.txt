@@ -3,6 +3,7 @@
 ## Katie Huot
 
 ##### Surprising facts about the INTERNET:
+
 - How is the web different than the internet?
   A system spanning many networks is an inter-network
   shortened to “Internet” in 1974.
