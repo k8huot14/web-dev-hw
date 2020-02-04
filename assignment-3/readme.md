@@ -2,14 +2,10 @@
 ## Technical Report
 ## Katie Huot
 
-Summarize the work you did this cycle.
-Problems or Issues? How did you solve them?
+13. A. A browser is a software program that is used to access the    internet from a device. A browser uses web languages such as HTML, CSS and Javascript to follow instructions that render a stylized page layout with text, graphics and other content.
+    B. I use Google Chrome the most these days because I purchased
+    a Chromecast to be able to cast Netflix and Disney+ to my non-
+    smart TV. I also like Firefox and have Internet Explorer on my
+    computer as well. To be honest, I rotate through all 3 browsers.
 
-
-1. How many main <head> and <body> elements can a page have? How are these elements different, or what role do they play?
-
-2. Describe the difference between structural and semantic markup.
-
-3. Summarize your work cycle for this assignment. Review this page if you need some ideas.
-
-4. Embed a screenshot of your workspace at some point during your development cycle.
+14. HTML is an example of one of the most common markup languages in web development that uses tags to define elements within a document. 
