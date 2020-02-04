@@ -8,4 +8,7 @@
     smart TV. I also like Firefox and have Internet Explorer on my
     computer as well. To be honest, I rotate through all 3 browsers.
 
-14. HTML is an example of one of the most common markup languages in web development that uses tags to define elements within a document. 
+14. HTML is an example of one of the most common markup languages in web development that uses tags to define elements within a document.
+
+15. ![Screenshot A3a](./images/screenshot-A3a.png)
+    ![Screenshot A3b](./images/screenshot-A3b.png)
